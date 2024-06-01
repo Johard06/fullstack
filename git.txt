@@ -29,4 +29,4 @@
 
 10. git remote -v ==> me muestra donde estan guardados los codigos en remoto
 
-11.
+11. git log ==> me muestra los commits hechos y quien lo hizo
