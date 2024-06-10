@@ -1,0 +1,23 @@
+@font-face{
+    font-family: Asquire;
+    src: url(./assets/Font/Asquire.otf);
+}
+
+body{
+    background-color: rgb(31, 31, 31);
+}
+
+#tituloprincipal{
+    font-size: 50px;
+    color: goldenrod;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-family: Asquire;
+}
+
+.contactos{
+    color: goldenrod;
+}

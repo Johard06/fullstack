@@ -1,0 +1,16 @@
+body{
+    background-color: skyblue;
+}
+
+p{
+    background-color: yellow;
+    margin-top: 75px;
+    margin-right: 250px;
+    margin-bottom: 150px;
+    margin-left: 300px;
+}
+
+#eliminar{
+    margin-left: 150px;
+    margin-right: 200px;
+}
