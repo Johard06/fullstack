@@ -14,3 +14,19 @@ p{
     margin-left: 150px;
     margin-right: 200px;
 }
+
+.custom{
+    border: black 7px double;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.bordes{
+    border: black 7px solid;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
