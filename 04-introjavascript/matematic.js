@@ -24,4 +24,4 @@ let resultado;
 
     console.log("el resultado de la resta es:" + resultado);
 
-    alert("el resultado de la resta es"+ resultado);
+    //alert("el resultado de la resta es"+ resultado);
