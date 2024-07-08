@@ -1,4 +1,30 @@
-console.log
+
+
+// estos son los comentarios de una sola linea en javascript
+
+/* 
+Comentarios
+de
+varias
+lineas
+en JS
+*/
+
+//let hola = 'pepe'
+
+/*
+let hola = 'pepe'
+let hola = 'pepe'
+let hola = 'pepe'
+let hola = 'pepe'
+let hola = 'pepe'
+let hola = 'pepe'
+let hola = 'pepe'
+let hola = 'pepe'
+let hola = 'pepe' 
+*/
+
+console.log('3. Estoy en el archivo de JS')
 //Variables: espacios de memoria para almacenar datos
 //1. con var
 // palabras reservadas: son utilizadas solo para las definiciones del lenguaje de programacion
@@ -48,7 +74,13 @@ provincia = false
 
 //funciones
 console.log(nombre + apellido + provincia)
+console.info(nombre + apellido + provincia)
+console.error(nombre + apellido + provincia)
+console.warn(nombre + apellido + provincia)
 
-DNI = 'Pepe'; //error en tiempo de ejecucion
+
+//alert('Soy un mensaje de alerta al usuario') //ventana emergente
+
+//DNI = 'Pepe'; //error en tiempo de ejecucion
 
 
